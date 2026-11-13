@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Stock watch",
+    "description": "Adds a draggable floating quote pane over the app for Shanghai, Shenzhen, Beijing (BSE), Hong Kong, and US stocks and indices, including 北证50. Clicking a row opens today's intraday chart; the footer's Add a symbol box accepts a code or a Chinese name (茅台, 比亚迪, 贝特瑞) and shows matching symbols to pick from, and the detail block removes one. Quotes are polled only while the pane is expanded and a watched market is in session (mainland 09:15–11:30 / 13:00–15:00, Hong Kong 09:30–12:00 / 13:00–16:00, US 21:30–05:00 Beijing time): expanding it reads once so a closed market still shows its last print, a closed market then stops polling, and a folded pane or a hidden page makes no requests at all — ↻ forces one read. Drag the title bar to move the pane anywhere in the window, double-click it to return to the corner, and use the chevron to fold it; position and folded state stay in this browser. The same feed backs a stock_watch agent tool (it accepts a query too), so you can also ask for quotes in chat. Quotes come from Eastmoney's public endpoint, so freshness depends on that public feed (normally real-time during trading hours). Defaults live in the plugin row's config (watchlist, refreshMs, trendRefreshMs, timeoutMs); edits made in the pane stay in this browser.",
+    "detail": "docs/DETAIL.md"
+  }
+}

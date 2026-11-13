@@ -1,0 +1,9 @@
+# awesome-dsh-plugin 的一条插件记录。
+# 用法：复制成数据仓库里的 data/plugins/<github-owner>__<repo>.yml，提交 PR。
+# 要求（列表规则）：公开仓库、建满 1 天、带 dsh-plugin topic、package.json 里有 dsh.bundle。
+url: https://github.com/chenxiaomao123/dsh-stock-watchlist
+name: chenxiaomao123/dsh-stock-watchlist
+category: ui
+description:
+  en: Draggable floating quote pane covering Shanghai, Shenzhen, Beijing (BSE), Hong Kong, and US symbols — add a stock by code or Chinese name, open its intraday chart, and ask the stock_watch tool for the same numbers.
+  zh: 可拖动的自选股行情浮窗，覆盖沪市、深市、北交所、港股、美股与指数；可按代码或中文名称添加，展开当日分时图，并提供读取同一份行情的 stock_watch 工具。

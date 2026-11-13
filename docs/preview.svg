@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-label="A floating quote pane over the app, with one row expanded into an intraday chart">
+  <rect width="640" height="300" fill="#101218"/>
+  <rect x="0" y="0" width="96" height="300" fill="#141821"/>
+  <rect x="16" y="28" width="64" height="10" rx="5" fill="#232936"/>
+  <rect x="16" y="52" width="52" height="8" rx="4" fill="#1D222C"/>
+  <rect x="16" y="72" width="58" height="8" rx="4" fill="#1D222C"/>
+  <rect x="16" y="92" width="46" height="8" rx="4" fill="#1D222C"/>
+  <rect x="124" y="30" width="170" height="8" rx="4" fill="#1B2029"/>
+  <rect x="124" y="48" width="120" height="6" rx="3" fill="#171C24"/>
+  <rect x="140" y="232" width="300" height="46" rx="14" fill="#171B24" stroke="#222834"/>
+  <rect x="160" y="248" width="180" height="7" rx="3.5" fill="#1E2430"/>
+  <rect x="160" y="262" width="120" height="6" rx="3" fill="#1B212B"/>
+
+  <rect x="336" y="40" width="272" height="240" rx="18" fill="#05070B" opacity="0.5"/>
+  <rect x="330" y="34" width="272" height="240" rx="16" fill="#1B1E25" stroke="#2C313D"/>
+  <circle cx="344" cy="48" r="1.4" fill="#4A5160"/>
+  <circle cx="348" cy="48" r="1.4" fill="#4A5160"/>
+  <circle cx="352" cy="48" r="1.4" fill="#4A5160"/>
+  <circle cx="344" cy="52" r="1.4" fill="#4A5160"/>
+  <circle cx="348" cy="52" r="1.4" fill="#4A5160"/>
+  <circle cx="352" cy="52" r="1.4" fill="#4A5160"/>
+  <rect x="362" y="46" width="44" height="8" rx="4" fill="#3B414D"/>
+  <circle cx="418" cy="50" r="3" fill="#2FA36B"/>
+  <rect x="428" y="47" width="34" height="6" rx="3" fill="#2C323D"/>
+  <circle cx="566" cy="50" r="7" fill="#232936"/>
+  <circle cx="584" cy="50" r="7" fill="#232936"/>
+  <line x1="330" y1="64" x2="602" y2="64" stroke="#262C37"/>
+
+  <rect x="336" y="70" width="260" height="24" rx="6" fill="#151920"/>
+  <rect x="344" y="77" width="52" height="7" rx="3.5" fill="#3F4653"/>
+  <rect x="470" y="77" width="38" height="7" rx="3.5" fill="#C9CDD6"/>
+  <rect x="524" y="78" width="30" height="6" rx="3" fill="#E04A45"/>
+
+  <rect x="336" y="94" width="260" height="24" rx="6" fill="#252A36"/>
+  <rect x="344" y="101" width="48" height="7" rx="3.5" fill="#5A6270"/>
+  <rect x="470" y="101" width="38" height="7" rx="3.5" fill="#E8EAEE"/>
+  <rect x="524" y="102" width="30" height="6" rx="3" fill="#2FA36B"/>
+
+  <rect x="336" y="118" width="260" height="24" rx="6" fill="#151920"/>
+  <rect x="344" y="125" width="56" height="7" rx="3.5" fill="#3F4653"/>
+  <rect x="470" y="125" width="34" height="7" rx="3.5" fill="#C9CDD6"/>
+  <rect x="524" y="126" width="28" height="6" rx="3" fill="#2FA36B"/>
+
+  <rect x="336" y="142" width="260" height="24" rx="6" fill="#151920"/>
+  <rect x="344" y="149" width="44" height="7" rx="3.5" fill="#3F4653"/>
+  <rect x="470" y="149" width="40" height="7" rx="3.5" fill="#C9CDD6"/>
+  <rect x="524" y="150" width="30" height="6" rx="3" fill="#E04A45"/>
+
+  <rect x="336" y="166" width="260" height="24" rx="6" fill="#151920"/>
+  <rect x="344" y="173" width="50" height="7" rx="3.5" fill="#3F4653"/>
+  <rect x="470" y="173" width="36" height="7" rx="3.5" fill="#C9CDD6"/>
+  <rect x="524" y="174" width="26" height="6" rx="3" fill="#4A5160"/>
+
+  <rect x="336" y="196" width="260" height="66" rx="8" fill="#171B23" stroke="#262C37"/>
+  <rect x="346" y="206" width="52" height="12" rx="3" fill="#E8EAEE"/>
+  <rect x="404" y="209" width="34" height="7" rx="3.5" fill="#E04A45"/>
+  <rect x="346" y="228" width="44" height="5" rx="2.5" fill="#333945"/>
+  <rect x="398" y="228" width="38" height="5" rx="2.5" fill="#333945"/>
+  <rect x="346" y="240" width="56" height="5" rx="2.5" fill="#333945"/>
+  <rect x="410" y="240" width="30" height="5" rx="2.5" fill="#333945"/>
+
+  <line x1="470" y1="228" x2="586" y2="228" stroke="#3A414D" stroke-width="1" stroke-dasharray="4 4"/>
+  <path d="M470 238 L490 230 L508 234 L526 220 L544 224 L562 210 L586 204 L586 252 L470 252 Z" fill="#E04A45" fill-opacity="0.12"/>
+  <path d="M470 238 L490 230 L508 234 L526 220 L544 224 L562 210 L586 204" fill="none" stroke="#E04A45" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="586" cy="204" r="3" fill="#E04A45"/>
+</svg>
